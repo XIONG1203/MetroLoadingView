@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="lodingView">
+        <attr name="color" format="color" />
+        <attr name="barWidth" format="dimension" />
+        <attr name="barHeight" format="dimension" />
+        <attr name="barCount" format="integer" />
+        <attr name="duration" format="integer" />
+        <attr name="peakCount" format="integer"/>
+    </declare-styleable>
+</resources>
